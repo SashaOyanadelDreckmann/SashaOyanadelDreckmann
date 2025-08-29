@@ -15,7 +15,7 @@
 ### Sobre mí
 
 - Estudiante de Ingeniería Civil Industrial y Magíster en Ciencia de Datos en la Universidad de Chile.
-- Fundador de [AltaMente], una consultora que aplica IA y analítica avanzada para potenciar decisiones de negocio.
+- Fundador de AltaMente, una consultora que aplica IA y analítica avanzada para potenciar decisiones de negocio.
 - Apasionado por la automatización, el MLOps y los modelos predictivos.
 
 ---

@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Sasha Oyanadel 👋</h1>
-<h3 align="center">🧠 Data Scientist | 📊 Consultor en Inteligencia de Negocios | 🚀 Emprendedor en AltaMente</h3>
+<h3 align="center"> Data Scientist | Consultor en IA y MLOps | Emprendedor en AltaMente</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sashaoyanadeldreckmann" target="_blank">
@@ -12,12 +12,11 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🎓 Estudiante de Ingeniería Civil Industrial y Magíster en Ciencia de Datos en la Universidad de Chile.
-- 🧠 Fundador de [AltaMente](https://altamenteconsultoria.cl), una consultora que aplica IA y analítica avanzada para potenciar decisiones de negocio.
-- 💡 Apasionado por la automatización, el MLOps y los modelos predictivos.
-- 🎯 Actualmente trabajando en proyectos con IKEA Chile, Volvo, y emprendimientos propios.
+- Estudiante de Ingeniería Civil Industrial y Magíster en Ciencia de Datos en la Universidad de Chile.
+- Fundador de [AltaMente], una consultora que aplica IA y analítica avanzada para potenciar decisiones de negocio.
+- Apasionado por la automatización, el MLOps y los modelos predictivos.
 
 ---
 
@@ -35,20 +34,28 @@
 
 ---
 
-### 📈 GitHub Stats
+### Proyectos destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sashaoyanadel&show_icons=true&theme=radical&hide=stars" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashaoyanadel&theme=radical" width="48%"/>
-</p>
+-  **Deep Drinkers**  
+  Sistema de recomendación semanal para una empresa ficticia de bebidas, integrando un pipeline de MLOps completo:  
+  **Airflow** para automatización, **MLflow** para tracking, **Optuna** para optimización, y despliegue web con **FastAPI + Gradio**.  
+  > `MLOps | Recomendadores | Despliegue Web | Automatización`
+
+- 🧠 **AltaMente – Consultoría Inteligente**  
+  Consultora fundada por mí para aplicar ciencia de datos e inteligencia artificial en la toma de decisiones empresariales.  
+  Hemos trabajado con negocios reales para optimizar ventas, segmentar clientes, prevenir quiebres de stock y automatizar reportes.  
+  > `Emprendimiento | IA aplicada | Estrategia Comercial`
+
+- **Clasificación de clientes para e‑commerce de pañales**  
+  Proyecto aplicado de marketing predictivo, donde se desarrollaron modelos de elección y segmentación con datos reales (Babysec, Pampers, Huggies).  
+  > `Modelos Logit | RFM | Clustering | Marketing Analytics`
+
+- **Optimización de inventario con Prophet + regresores**  
+  Modelos de series temporales ajustados con información externa (precio, promociones, clima) para mejorar la precisión en previsión de ingresos.  
+  > `Forecasting | Prophet | External Regressors`
 
 ---
 
-### 📌 Proyectos destacados
-
-- 🧃 **Deep Drinkers** – Predicción de compras semanales con MLOps + FastAPI + Airflow.
-- 🧠 **AltaMente** – Automatización de decisiones de negocio usando ciencia de datos.
-- 🛍️ **Proyecto IKEA Food Chile** – Modelamiento del flujo de clientes y optimización del espacio.
 
 ---
 
@@ -57,8 +64,6 @@
 Si quieres conversar sobre proyectos, colaboraciones o simplemente decir hola:
 
 📬 sasha@altamenteconsultoria.cl  
-🌐 [https://altamenteconsultoria.cl](https://altamenteconsultoria.cl)
-
 ---
 
 <p align="center">

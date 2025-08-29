@@ -41,7 +41,7 @@
   **Airflow** para automatización, **MLflow** para tracking, **Optuna** para optimización, y despliegue web con **FastAPI + Gradio**.  
   > `MLOps | Recomendadores | Despliegue Web | Automatización`
 
-- 🧠 **AltaMente – Consultoría Inteligente**  
+- **AltaMente – Consultoría Inteligente**  
   Consultora fundada por mí para aplicar ciencia de datos e inteligencia artificial en la toma de decisiones empresariales.  
   Hemos trabajado con negocios reales para optimizar ventas, segmentar clientes, prevenir quiebres de stock y automatizar reportes.  
   > `Emprendimiento | IA aplicada | Estrategia Comercial`
@@ -59,7 +59,7 @@
 
 ---
 
-### 💬 Contáctame
+### Contáctame
 
 Si quieres conversar sobre proyectos, colaboraciones o simplemente decir hola:
 

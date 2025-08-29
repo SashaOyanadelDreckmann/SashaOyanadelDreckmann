@@ -2,14 +2,11 @@
 <h3 align="center">🧠 Data Scientist | 📊 Consultor en Inteligencia de Negocios | 🚀 Emprendedor en AltaMente</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sashaoyanadel" target="_blank">
+  <a href="https://www.linkedin.com/in/sashaoyanadeldreckmann" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sasha@altamenteconsultoria.cl">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://altamenteconsultoria.cl" target="_blank">
-    <img src="https://img.shields.io/badge/Sitio%20Web-AltaMente-2ea44f?style=flat&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
 

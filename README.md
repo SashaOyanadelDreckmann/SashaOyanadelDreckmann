@@ -1,5 +1,4 @@
 <h1 align="center">Hola! Soy Sasha Oyanadel 👋</h1>
-<h3 align="center"> Data Scientist | Consultor en IA y MLOps | Emprendedor en AltaMente</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sashaoyanadeldreckmann" target="_blank">

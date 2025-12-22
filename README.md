@@ -19,16 +19,47 @@
 
 ---
 
-### 🛠️ Lenguajes y herramientas
+### 🛠️ Lenguajes, frameworks y herramientas
 
 <p>
+  <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- Ciencia de datos / ML -->
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Optuna-2E7D32?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCaret-2C2C2C?style=for-the-badge&logoColor=white"/>
+
+  <!-- Visualización -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+  <!-- MLOps / pipelines -->
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-1A1A1A?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <!-- Backend / APIs -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+  <!-- Prototipado / UI -->
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logoColor=white"/>
+
+  <!-- Web / scraping -->
+  <img src="https://img.shields.io/badge/BeautifulSoup-4E4E4E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white"/>
+
+  <!-- Dev tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
 ---

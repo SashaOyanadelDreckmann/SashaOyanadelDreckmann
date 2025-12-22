@@ -81,6 +81,22 @@
   Aplicación de **Regression Discontinuity Design** para evaluar el impacto de políticas públicas del Ministerio de Educación en la reincorporación y titulación de estudiantes.  
   > `Inferencia Causal | Políticas Públicas | Análisis Cuasi-Experimental`
 
+- **Clasificación y Segmentación de Clientes para Marketing Predictivo**  
+  Desarrollo de modelos de clasificación y segmentación para clientes de e-commerce, utilizando variables de comportamiento de compra y métricas RFM.  
+  Evaluación de desempeño y análisis de resultados para apoyar decisiones de targeting y personalización.  
+  > `Clasificación | Clustering | Marketing Analytics`
+
+- **Optimización de Inventario mediante Series de Tiempo**  
+  Modelado de series temporales para proyección de demanda e ingresos, incorporando variables exógenas como precios y promociones.  
+  Comparación de enfoques estadísticos y predictivos para mejorar la precisión de pronósticos.  
+  > `Time Series | Forecasting | Variables Exógenas`
+
+- **Pipeline de Datos para Análisis Exploratorio y Reportes Automatizados**  
+  Construcción de pipelines de ingestión, limpieza y transformación de datos para análisis exploratorio y generación de reportes reproducibles.  
+  Enfoque en trazabilidad, automatización y claridad de resultados para toma de decisiones.  
+  > `Data Engineering | Automatización | Análisis Exploratorio`
+
+
 ---
 
 ### Intereses académicos y profesionales

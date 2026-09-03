@@ -22,23 +22,23 @@ Me especializo en la intersección entre **estadística, finanzas e inteligencia
 
 ## Proyectos relevantes
 
-### 01 — [Agente conversacional para finanzas personales](https://github.com/SashaOyanadelDreckmann/locoplaya666-final-financial-agent)
+### 01 — [Financial Intelligence for Chile](https://github.com/SashaOyanadelDreckmann/financial-intelligence-chile)
 
 **Tesis de doble titulación.** Diseñé, implementé y desplegué una aplicación web que simula principios de la **Ley Fintech 21.521** y del **Sistema de Finanzas Abiertas**, sin operar como prestador regulado. Integra cartolas, presupuesto, normativa chilena e indicadores de mercado con consentimiento, pseudonimización y trazabilidad de fuentes CMF/BCN.
 
 `TypeScript` `Next.js` `Fastify` `PostgreSQL` `LLMs` `RAG` `ReAct` `MCP`
 
-### 02 — [SodAI Drinks · Pronóstico de demanda](https://github.com/SashaOyanadelDreckmann/SodAI-Drinks-Pron-stico-de-Demanda)
+### 02 — [SodAI Drinks · Pronóstico de demanda](https://github.com/SashaOyanadelDreckmann/demand-forecasting-mlops)
 
 Pipeline end-to-end para pronóstico semanal de demanda: experimentación, optimización, explicabilidad y despliegue de una interfaz de análisis.
 
 `Python` `Series de tiempo` `Airflow` `MLflow` `Optuna` `SHAP` `FastAPI` `Docker`
 
-### 03 — [Agentes conversacionales · Xtiende](https://github.com/SashaOyanadelDreckmann/Agentes-Xtiende-preliminar)
+### 03 — [LLM Customer-Service Agent](https://github.com/SashaOyanadelDreckmann/llm-customer-service-agent)
 
-Exploración de una arquitectura multiagente para flujos de onboarding y matching entre empresas, con foco en criterios de integración robusta y escalable.
+Prototipo de automatización conversacional para servicio al cliente, enfocado en diseño de flujos, respuestas asistidas e integración con operación.
 
-`LLMs` `Agentes` `APIs` `SaaS` `Arquitectura de producto`
+`Python` `LLMs` `Conversational AI` `Automatización` `Service Design`
 
 ## Formación
 

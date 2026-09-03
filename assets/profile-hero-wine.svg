@@ -27,7 +27,9 @@
   </defs>
 
   <rect width="1400" height="430" rx="28" fill="url(#background)"/>
-  <circle cx="1240" cy="56" r="240" fill="url(#wineGlow)" filter="url(#blur56)"/>
+  <circle cx="1240" cy="56" r="240" fill="url(#wineGlow)" filter="url(#blur56)">
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="8s" repeatCount="indefinite"/>
+  </circle>
   <circle cx="1130" cy="420" r="250" fill="url(#beigeGlow)" filter="url(#blur56)"/>
 
   <g opacity="0.14" stroke="#B89763" stroke-width="1">
@@ -45,9 +47,20 @@
   </g>
 
   <g transform="translate(1120 300)" fill="none" stroke="#5B1830" stroke-width="2">
-    <circle cx="0" cy="0" r="72" opacity="0.26"/>
-    <circle cx="0" cy="0" r="46" opacity="0.50"/>
-    <circle cx="0" cy="0" r="8" fill="#5B1830" stroke="none"/>
-    <path d="M-98 0H98M0-98V98" opacity="0.16"/>
+    <circle cx="0" cy="0" r="72" opacity="0.26">
+      <animate attributeName="r" values="68;76;68" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.34;0.18" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="46" opacity="0.50">
+      <animate attributeName="r" values="44;50;44" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.38;0.62;0.38" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="8" fill="#5B1830" stroke="none">
+      <animate attributeName="r" values="7;10;7" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.82;1;0.82" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-98 0H98M0-98V98" opacity="0.16">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32s" repeatCount="indefinite"/>
+    </path>
   </g>
 </svg>

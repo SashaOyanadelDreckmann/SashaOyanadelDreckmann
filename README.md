@@ -40,16 +40,6 @@ Exploración de una arquitectura multiagente para flujos de onboarding y matchin
 
 `LLMs` `Agentes` `APIs` `SaaS` `Arquitectura de producto`
 
-## Áreas de trabajo
-
-| Datos y modelación | Finanzas y regulación |
-| --- | --- |
-| Python, SQL, inferencia causal, series de tiempo, clasificación, ranking y Monte Carlo | Ley Fintech 21.521, SFA, CMF, finanzas cuantitativas, portafolios y riesgo |
-
-| IA y tecnología | Estrategia y producto |
-| --- | --- |
-| LLMs, RAG, ReAct, MCP, TypeScript, Node.js, APIs, PostgreSQL, Docker y CI/CD | Estructuración de problemas, análisis de negocio, diseño de producto y metodologías ágiles |
-
 ## Formación
 
 - **Universidad de Chile** — Programa de doble titulación en Ingeniería Civil Industrial y Magíster en Ciencia de Datos.
@@ -61,6 +51,49 @@ Exploración de una arquitectura multiagente para flujos de onboarding y matchin
 - Finanzas abiertas, consentimiento y trazabilidad de datos.
 - Modelación estadística y productos analíticos desplegables.
 - Optimización de portafolios y evaluación de riesgo bajo el marco chileno.
+
+## Competencias
+
+<div align="center">
+
+<sub><strong>STACK PRINCIPAL</strong></sub>
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=python,r,postgres,ts,nextjs,nodejs,docker,fastapi,github" alt="Python, R, PostgreSQL, TypeScript, Next.js, Node.js, Docker, FastAPI y GitHub" />
+
+</div>
+
+<br />
+
+<sub><strong>DATOS Y MODELACIÓN ESTADÍSTICA</strong></sub>
+
+![pandas](https://img.shields.io/badge/pandas-171717?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-171717?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-171717?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Series de tiempo](https://img.shields.io/badge/Series_de_tiempo-78895A?style=for-the-badge)
+![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-78895A?style=for-the-badge)
+
+<sub><strong>INTELIGENCIA ARTIFICIAL Y DESPLIEGUE</strong></sub>
+
+![LLMs](https://img.shields.io/badge/LLMs-171717?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-78895A?style=for-the-badge)
+![ReAct](https://img.shields.io/badge/ReAct-78895A?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-78895A?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-171717?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-171717?style=for-the-badge&logo=mlflow&logoColor=white)
+
+<sub><strong>FINANZAS, PRODUCTO Y MARCOS REGULATORIOS</strong></sub>
+
+![Excel](https://img.shields.io/badge/Excel-171717?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-171717?style=for-the-badge&logo=powerbi&logoColor=white)
+![Solver](https://img.shields.io/badge/Solver-78895A?style=for-the-badge)
+![Portafolios](https://img.shields.io/badge/Portafolios-78895A?style=for-the-badge)
+![Riesgo financiero](https://img.shields.io/badge/Riesgo_financiero-78895A?style=for-the-badge)
+![Ley Fintech 21.521](https://img.shields.io/badge/Ley_Fintech_21.521-78895A?style=for-the-badge)
+![Sistema de Finanzas Abiertas](https://img.shields.io/badge/SFA-78895A?style=for-the-badge)
+![CMF Chile](https://img.shields.io/badge/CMF_Chile-78895A?style=for-the-badge)
+![Metodologías ágiles](https://img.shields.io/badge/Metodologías_ágiles-78895A?style=for-the-badge)
 
 ---
 

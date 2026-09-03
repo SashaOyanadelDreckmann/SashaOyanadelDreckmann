@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Sasha Nicolás Oyanadel Dreckmann — Ciencia de Datos, Finanzas e Inteligencia Artificial" />
+  <img src="./assets/profile-hero-wine.svg" width="100%" alt="Sasha Nicolás Oyanadel Dreckmann — Ciencia de Datos, Finanzas e Inteligencia Artificial" />
 </p>
 
 <p align="center">

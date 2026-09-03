@@ -56,7 +56,7 @@ Exploración de una arquitectura multiagente para flujos de onboarding y matchin
 
 <div align="center">
 
-<sub><strong>STACK PRINCIPAL</strong></sub>
+<sub><strong>CORE STACK</strong></sub>
 
 <br /><br />
 
@@ -66,34 +66,48 @@ Exploración de una arquitectura multiagente para flujos de onboarding y matchin
 
 <br />
 
-<sub><strong>DATOS Y MODELACIÓN ESTADÍSTICA</strong></sub>
-
-![pandas](https://img.shields.io/badge/pandas-171717?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-171717?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-171717?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Series de tiempo](https://img.shields.io/badge/Series_de_tiempo-78895A?style=for-the-badge)
-![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-78895A?style=for-the-badge)
-
-<sub><strong>INTELIGENCIA ARTIFICIAL Y DESPLIEGUE</strong></sub>
-
-![LLMs](https://img.shields.io/badge/LLMs-171717?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-78895A?style=for-the-badge)
-![ReAct](https://img.shields.io/badge/ReAct-78895A?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-78895A?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Airflow-171717?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-171717?style=for-the-badge&logo=mlflow&logoColor=white)
-
-<sub><strong>FINANZAS, PRODUCTO Y MARCOS REGULATORIOS</strong></sub>
-
-![Excel](https://img.shields.io/badge/Excel-171717?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-171717?style=for-the-badge&logo=powerbi&logoColor=white)
-![Solver](https://img.shields.io/badge/Solver-78895A?style=for-the-badge)
-![Portafolios](https://img.shields.io/badge/Portafolios-78895A?style=for-the-badge)
-![Riesgo financiero](https://img.shields.io/badge/Riesgo_financiero-78895A?style=for-the-badge)
-![Ley Fintech 21.521](https://img.shields.io/badge/Ley_Fintech_21.521-78895A?style=for-the-badge)
-![Sistema de Finanzas Abiertas](https://img.shields.io/badge/SFA-78895A?style=for-the-badge)
-![CMF Chile](https://img.shields.io/badge/CMF_Chile-78895A?style=for-the-badge)
-![Metodologías ágiles](https://img.shields.io/badge/Metodologías_ágiles-78895A?style=for-the-badge)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><strong>DATOS Y MODELACIÓN ESTADÍSTICA</strong></sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Pandas-171717?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-171717?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/scikit--learn-171717?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <br />
+      <sub>Series de tiempo · inferencia estadística · clasificación · optimización · Monte Carlo</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><strong>INTELIGENCIA ARTIFICIAL Y DESPLIEGUE</strong></sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/LLMs-171717?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+      <img src="https://img.shields.io/badge/Airflow-171717?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+      <img src="https://img.shields.io/badge/MLflow-171717?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+      <br />
+      <sub>RAG · ReAct · MCP · APIs · experimentación · trazabilidad · despliegue</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><strong>FINANZAS Y MARCOS REGULATORIOS</strong></sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Excel-171717?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/Power_BI-171717?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
+      <img src="https://img.shields.io/badge/CMF-78895A?style=flat-square" alt="CMF" />
+      <br />
+      <sub>Ley Fintech 21.521 · SFA · portafolios · riesgo · Solver · curvas · derivados</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><strong>PRODUCTO, CONSULTORÍA Y EJECUCIÓN</strong></sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Agile-78895A?style=flat-square" alt="Agile" />
+      <img src="https://img.shields.io/badge/Product-78895A?style=flat-square" alt="Product" />
+      <br />
+      <sub>Estructuración de problemas · discovery · arquitectura de producto · documentación ejecutiva</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 

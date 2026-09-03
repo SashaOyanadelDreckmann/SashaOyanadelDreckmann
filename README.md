@@ -54,7 +54,6 @@ Exploración de una arquitectura multiagente para flujos de onboarding y matchin
 
 - **Universidad de Chile** — Programa de doble titulación en Ingeniería Civil Industrial y Magíster en Ciencia de Datos.
 - **Greentech** — Diplomado en Consultoría en IA, Automatizaciones y Agentes IA.
-- **Ingeniería financiera** — Renta fija, curvas de tasas, Markowitz, Fama–French, derivados, Black–Scholes, VaR, GARCH, Merton y riesgo de crédito.
 
 ## En qué estoy trabajando
 

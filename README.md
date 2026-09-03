@@ -93,7 +93,7 @@ Exploración de una arquitectura multiagente para flujos de onboarding y matchin
       <br /><br />
       <img src="https://img.shields.io/badge/Excel-171717?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
       <img src="https://img.shields.io/badge/Power_BI-171717?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
-      <img src="https://img.shields.io/badge/CMF-78895A?style=flat-square" alt="CMF" />
+      <img src="https://img.shields.io/badge/CMF-6F1D35?style=flat-square" alt="CMF" />
       <br />
       <sub>Ley Fintech 21.521 · SFA · portafolios · riesgo · Solver · curvas · derivados</sub>
     </td>
@@ -101,8 +101,8 @@ Exploración de una arquitectura multiagente para flujos de onboarding y matchin
       <sub><strong>PRODUCTO, CONSULTORÍA Y EJECUCIÓN</strong></sub>
       <br /><br />
       <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Agile-78895A?style=flat-square" alt="Agile" />
-      <img src="https://img.shields.io/badge/Product-78895A?style=flat-square" alt="Product" />
+      <img src="https://img.shields.io/badge/Agile-6F1D35?style=flat-square" alt="Agile" />
+      <img src="https://img.shields.io/badge/Product-6F1D35?style=flat-square" alt="Product" />
       <br />
       <sub>Estructuración de problemas · discovery · arquitectura de producto · documentación ejecutiva</sub>
     </td>

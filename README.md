@@ -1,115 +1,72 @@
-<h1 align="center">Hola! Soy Sasha Nicolás Oyanadel Dreckmann 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sashaoyanadeldreckmann" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sasha.oyanadel@ug.uchile.cl">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# Sasha Nicolás Oyanadel Dreckmann
 
----
+### Ciencia de Datos · Finanzas y Marco Regulatorio · Analítica Avanzada · Inteligencia Artificial
 
-### Sobre mí
+[LinkedIn](https://www.linkedin.com/in/sashaoyanadeldreckmann) · [Email](mailto:sasha.oyanadel@ug.uchile.cl) · Santiago, Chile
 
-- Estudiante de **Ingeniería Civil Industrial** y **Magíster en Ciencia de Datos** en la **Universidad de Chile**.
-- Formación orientada al diseño e implementación de **soluciones analíticas**, con énfasis en ciencia de datos, modelos predictivos y automatización.
-- Interesado en la aplicación de **machine learning, MLOps y agentes basados en LLMs** para apoyar procesos de decisión en contextos reales.
+</div>
 
 ---
 
-### 🛠️ Lenguajes, frameworks y herramientas
+## Perfil
 
-<p>
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+Estudiante del programa de doble titulación en **Ingeniería Civil Industrial y Magíster en Ciencia de Datos** de la Universidad de Chile, con tesis entregada para optar al título profesional y al grado de magíster.
 
-  <!-- Ciencia de datos / ML -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Optuna-2E7D32?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCaret-2C2C2C?style=for-the-badge&logoColor=white"/>
+Me especializo en la intersección entre **estadística, finanzas e inteligencia artificial**. Me interesa construir sistemas que conviertan información compleja en decisiones comprensibles, trazables y responsables, especialmente cuando operan bajo marcos regulatorios exigentes.
 
-  <!-- Visualización -->
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+> Mi tesis explora esa pregunta en el sistema financiero chileno: cómo integrar evidencia personal, normativa y modelos de lenguaje sin confundir apoyo informacional con asesoría financiera vinculante.
 
-  <!-- MLOps / pipelines -->
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-1A1A1A?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+## Proyectos relevantes
 
-  <!-- Backend / APIs -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+### 01 — [Agente conversacional para finanzas personales](https://github.com/SashaOyanadelDreckmann/locoplaya666-final-financial-agent)
 
-  <!-- Prototipado / UI -->
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logoColor=white"/>
+**Tesis de doble titulación.** Diseñé, implementé y desplegué una aplicación web que simula principios de la **Ley Fintech 21.521** y del **Sistema de Finanzas Abiertas**, sin operar como prestador regulado. Integra cartolas, presupuesto, normativa chilena e indicadores de mercado con consentimiento, pseudonimización y trazabilidad de fuentes CMF/BCN.
 
-  <!-- Web / scraping -->
-  <img src="https://img.shields.io/badge/BeautifulSoup-4E4E4E?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white"/>
+`TypeScript` `Next.js` `Fastify` `PostgreSQL` `LLMs` `RAG` `ReAct` `MCP`
 
-  <!-- Dev tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
+### 02 — [SodAI Drinks · Pronóstico de demanda](https://github.com/SashaOyanadelDreckmann/SodAI-Drinks-Pron-stico-de-Demanda)
 
----
+Pipeline end-to-end para pronóstico semanal de demanda: experimentación, optimización, explicabilidad y despliegue de una interfaz de análisis.
 
-### Proyectos destacados
+`Python` `Series de tiempo` `Airflow` `MLflow` `Optuna` `SHAP` `FastAPI` `Docker`
 
-- **SodAI Drinks – Pronóstico de Demanda**  
-  Desarrollo de un pipeline de producción end-to-end para pronóstico semanal de demanda de bebidas.  
-  Incluye orquestación con **Airflow**, experimentación y tracking con **MLflow**, optimización con **Optuna** e interpretabilidad con **SHAP**.  
-  Implementación de una aplicación web para visualización y pruebas usando **FastAPI + Gradio**, desplegada con Docker.  
-  > `Forecasting | MLOps | Optimización | Despliegue Web`
+### 03 — [Agentes conversacionales · Xtiende](https://github.com/SashaOyanadelDreckmann/Agentes-Xtiende-preliminar)
 
-- **Agente LLM para Atención al Cliente (Logística)**  
-  Diseño y prototipado de un agente conversacional basado en modelos de lenguaje para automatizar atención al cliente en una empresa de logística (Wareclouds).  
-  Implementación de flujos de FAQ, seguimiento de pedidos y lógica conversacional orientada a eficiencia operativa.  
-  > `LLMs | Agentes Conversacionales | Automatización`
+Exploración de una arquitectura multiagente para flujos de onboarding y matching entre empresas, con foco en criterios de integración robusta y escalable.
 
-- **Análisis de Deserción Escolar mediante Inferencia Causal**  
-  Aplicación de **Regression Discontinuity Design** para evaluar el impacto de políticas públicas del Ministerio de Educación en la reincorporación y titulación de estudiantes.  
-  > `Inferencia Causal | Políticas Públicas | Análisis Cuasi-Experimental`
+`LLMs` `Agentes` `APIs` `SaaS` `Arquitectura de producto`
 
-- **Clasificación y Segmentación de Clientes para Marketing Predictivo**  
-  Desarrollo de modelos de clasificación y segmentación para clientes de e-commerce, utilizando variables de comportamiento de compra y métricas RFM.  
-  Evaluación de desempeño y análisis de resultados para apoyar decisiones de targeting y personalización.  
-  > `Clasificación | Clustering | Marketing Analytics`
+## Áreas de trabajo
 
-- **Optimización de Inventario mediante Series de Tiempo**  
-  Modelado de series temporales para proyección de demanda e ingresos, incorporando variables exógenas como precios y promociones.  
-  Comparación de enfoques estadísticos y predictivos para mejorar la precisión de pronósticos.  
-  > `Time Series | Forecasting | Variables Exógenas`
+| Datos y modelación | Finanzas y regulación |
+| --- | --- |
+| Python, SQL, inferencia causal, series de tiempo, clasificación, ranking y Monte Carlo | Ley Fintech 21.521, SFA, CMF, finanzas cuantitativas, portafolios y riesgo |
 
-- **Pipeline de Datos para Análisis Exploratorio y Reportes Automatizados**  
-  Construcción de pipelines de ingestión, limpieza y transformación de datos para análisis exploratorio y generación de reportes reproducibles.  
-  Enfoque en trazabilidad, automatización y claridad de resultados para toma de decisiones.  
-  > `Data Engineering | Automatización | Análisis Exploratorio`
+| IA y tecnología | Estrategia y producto |
+| --- | --- |
+| LLMs, RAG, ReAct, MCP, TypeScript, Node.js, APIs, PostgreSQL, Docker y CI/CD | Estructuración de problemas, análisis de negocio, diseño de producto y metodologías ágiles |
 
+## Formación
+
+- **Universidad de Chile** — Programa de doble titulación en Ingeniería Civil Industrial y Magíster en Ciencia de Datos.
+- **Greentech** — Diplomado en Consultoría en IA, Automatizaciones y Agentes IA.
+- **Ingeniería financiera** — Renta fija, curvas de tasas, Markowitz, Fama–French, derivados, Black–Scholes, VaR, GARCH, Merton y riesgo de crédito.
+
+## En qué estoy trabajando
+
+- Sistemas de IA aplicados a decisiones financieras.
+- Finanzas abiertas, consentimiento y trazabilidad de datos.
+- Modelación estadística y productos analíticos desplegables.
+- Optimización de portafolios y evaluación de riesgo bajo el marco chileno.
 
 ---
 
-### Intereses académicos y profesionales
+<div align="center">
 
-Me interesa trabajar en la intersección entre **datos, tecnología y toma de decisiones**, participando en proyectos que requieran rigor analítico, implementación técnica y comunicación clara de resultados. Disfruto colaborar en equipos multidisciplinarios y en contextos donde los modelos deben integrarse a procesos reales.
+**Datos convertidos en sistemas. Sistemas convertidos en mejores decisiones.**
 
----
+[Conversemos en LinkedIn](https://www.linkedin.com/in/sashaoyanadeldreckmann) · [Escríbeme](mailto:sasha.oyanadel@ug.uchile.cl)
 
-### Contacto
-
-📬 sasha.oyanadel@ug.uchile.cl  
-
-<p align="center">
-  <img src="https://github.com/SebasUrbina/SebasUrbina/raw/main/code.gif" width="300"/>
-</p>
-
+</div>

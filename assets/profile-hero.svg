@@ -3,17 +3,17 @@
   <desc id="desc">Ciencia de Datos, Finanzas e Inteligencia Artificial</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090A0C"/>
-      <stop offset="0.58" stop-color="#111317"/>
-      <stop offset="1" stop-color="#0A0B0D"/>
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.58" stop-color="#FAFAF8"/>
+      <stop offset="1" stop-color="#F4F5F1"/>
     </linearGradient>
     <radialGradient id="greenGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#A7C96A" stop-opacity="0.54"/>
-      <stop offset="0.42" stop-color="#718C42" stop-opacity="0.20"/>
+      <stop offset="0" stop-color="#A7C96A" stop-opacity="0.30"/>
+      <stop offset="0.42" stop-color="#718C42" stop-opacity="0.12"/>
       <stop offset="1" stop-color="#718C42" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#4C8FCB" stop-opacity="0.27"/>
+      <stop offset="0" stop-color="#4C8FCB" stop-opacity="0.10"/>
       <stop offset="1" stop-color="#4C8FCB" stop-opacity="0"/>
     </radialGradient>
     <filter id="blur56" x="-50%" y="-50%" width="200%" height="200%">
@@ -30,18 +30,18 @@
   <circle cx="1240" cy="56" r="240" fill="url(#greenGlow)" filter="url(#blur56)"/>
   <circle cx="1130" cy="420" r="250" fill="url(#blueGlow)" filter="url(#blur56)"/>
 
-  <g opacity="0.12" stroke="#FFFFFF" stroke-width="1">
+  <g opacity="0.08" stroke="#111111" stroke-width="1">
     <path d="M1030 0V430"/><path d="M1110 0V430"/><path d="M1190 0V430"/><path d="M1270 0V430"/><path d="M1350 0V430"/>
     <path d="M960 92H1400"/><path d="M960 172H1400"/><path d="M960 252H1400"/><path d="M960 332H1400"/>
   </g>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', sans-serif">
-    <text x="76" y="78" fill="#9BAA7A" font-size="15" font-weight="600" letter-spacing="4.4">DATA · FINANCE · AI</text>
-    <text x="72" y="172" fill="#F5F5F7" font-size="59" font-weight="300" letter-spacing="-1.8">Sasha Nicolás</text>
-    <text x="72" y="235" fill="#F5F5F7" font-size="59" font-weight="600" letter-spacing="-2.1">Oyanadel Dreckmann</text>
+    <text x="76" y="78" fill="#78895A" font-size="15" font-weight="600" letter-spacing="4.4">DATA · FINANCE · AI</text>
+    <text x="72" y="172" fill="#171717" font-size="59" font-weight="300" letter-spacing="-1.8">Sasha Nicolás</text>
+    <text x="72" y="235" fill="#171717" font-size="59" font-weight="600" letter-spacing="-2.1">Oyanadel Dreckmann</text>
     <rect x="74" y="273" width="700" height="2" fill="url(#hairline)"/>
-    <text x="74" y="318" fill="#C5C5C9" font-size="21" font-weight="400" letter-spacing="0.25">Ciencia de Datos · Finanzas y Marco Regulatorio</text>
-    <text x="74" y="351" fill="#8E8E93" font-size="18" font-weight="400">Analítica avanzada e inteligencia artificial aplicada a mejores decisiones.</text>
+    <text x="74" y="318" fill="#343434" font-size="21" font-weight="400" letter-spacing="0.25">Ciencia de Datos · Finanzas y Marco Regulatorio</text>
+    <text x="74" y="351" fill="#6E6E73" font-size="18" font-weight="400">Analítica avanzada e inteligencia artificial aplicada a mejores decisiones.</text>
   </g>
 
   <g transform="translate(1120 300)" fill="none" stroke="#94AF5C" stroke-width="2">

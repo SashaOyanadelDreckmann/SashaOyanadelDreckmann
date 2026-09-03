@@ -1,12 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Sasha Nicolás Oyanadel Dreckmann — Ciencia de Datos, Finanzas e Inteligencia Artificial" />
+</p>
 
-# Sasha Nicolás Oyanadel Dreckmann
-
-### Ciencia de Datos · Finanzas y Marco Regulatorio · Analítica Avanzada · Inteligencia Artificial
-
-[LinkedIn](https://www.linkedin.com/in/sashaoyanadeldreckmann) · [Email](mailto:sasha.oyanadel@ug.uchile.cl) · Santiago, Chile
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sashaoyanadeldreckmann"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:sasha.oyanadel@ug.uchile.cl"><strong>Email</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Santiago, Chile
+</p>
 
 ---
 
